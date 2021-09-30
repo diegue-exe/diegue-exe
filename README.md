@@ -1,5 +1,5 @@
-- 👋 Hey, I’m @diegue-exe
-- 👀 Since I was a child I've been always wondering how the computers worked. That 
+- 👋 Hello world! I’m @diegue-exe
+- 👀 Since I was a child I've been always wondering how the computers worked and pushed me to start developing my own apps.
 - 🌱 I’m currently learning Java and Visual Basic
 - 💞️ I’m looking to collaborate on interesting and promising projects.
 - 📫 dieeegue2104@gmail.com
