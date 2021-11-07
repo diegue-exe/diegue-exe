@@ -1,5 +1,5 @@
 - 👋 Hello world! I’m Diegue!
-- 👀 Since I was a child I've been always wondering how the computers worked pushing me to start developing my own apps.
+- 👀 Since I was a child I've been always wondering how computers worked, pushing me to start developing my own apps.
 - 🌱 This is just my beginning! I’m currently learning Java and Visual Basic
 - 💞️ I’m looking to collaborate on interesting and promising projects.
 - 📫 dieeegue2104@gmail.com
