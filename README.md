@@ -14,6 +14,7 @@
  - Adobe XD
 
 🥰 Me gusta mucho el diseño e intento incorporarlo como puedo en todo lo que hago.
+
 🧑 **Hobbies:** Hacer mis diseños con illustrator y photoshop, aprender sobre informática y el baloncesto.
 
 ## Ponte en contacto conmigo
