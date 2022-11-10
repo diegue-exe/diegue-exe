@@ -17,7 +17,7 @@
 
 🧑 **Hobbies:** Hacer mis diseños con illustrator y photoshop, aprender sobre informática y el baloncesto.
 
-## Ponte en contacto conmigo
+## Ponte en contacto conmigo 💌
 
 > Tratare de responderte lo antes posible! 😇
 - Página web: https://diegue-exe.github.io
