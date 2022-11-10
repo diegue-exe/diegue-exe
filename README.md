@@ -3,15 +3,15 @@
 
 💪 Actualmente estoy estudiando para lograrlo: **Kotlin**
 
-🕵️‍♀️ Además, estoy aprendiendo **diferentes lenguajes y herramientas**, entre ellos:
+🕵️‍♀️ Además, he aprendido **diferentes lenguajes y herramientas**, entre ellos:
 
- - HTML
- - CSS
- - JavaScript 
+ - HTML, CSS, SASS, JavaScript, JQuery, PHP
  - Java
- - Visual Basic
- - Adobe Illustrator
- - Adobe XD
+ - Python
+ - C#
+ - Visual Basic (.NET)
+ - Android Studio
+ - Adobe Illustrator, Adobe Photoshop, Adobe After Effects
 
 🥰 Me gusta mucho el diseño e intento incorporarlo como puedo en todo lo que hago.
 
@@ -20,5 +20,5 @@
 ## Ponte en contacto conmigo
 
 > Tratare de responderte lo antes posible! 😇
-- Twitter: https://twitter.com/DiegueGraphics
+- Página web: https://diegue-exe.github.io
 - Instagram: https://www.instagram.com/dieguegfx/?hl=es
