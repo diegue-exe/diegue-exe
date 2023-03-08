@@ -1,14 +1,14 @@
 # Hola! Soy Diegue.
-### Voy a ser Android Developer algún día 👀
+### Voy a ser Web Developer algún día 👀
 
-💪 Actualmente estoy estudiando para lograrlo: **Kotlin**
+💪 Actualmente estoy estudiando para lograrlo: **React Native**
 
 🕵️‍♀️ Además, he aprendido **diferentes lenguajes y herramientas**, entre ellos:
 
- - HTML, CSS, SASS, JavaScript, JQuery, PHP
+ - HTML, CSS, SASS, JavaScript, Typescript, JQuery, PHP, Angular
  - Java
  - Python
- - C#
+ - C# (.NET)
  - Visual Basic (.NET)
  - Android Studio
  - Adobe Illustrator, Adobe Photoshop, Adobe After Effects
