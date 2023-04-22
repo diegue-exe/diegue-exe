@@ -1,7 +1,7 @@
 # Hola! Soy Diegue.
 ### Voy a ser Web Developer algún día 👀
 
-💪 Actualmente estoy estudiando para lograrlo: **React Native**
+💪 Actualmente estoy estudiando para lograrlo: **React**
 
 🕵️‍♀️ Además, he aprendido **diferentes lenguajes y herramientas**, entre ellos:
 
