@@ -1,7 +1,7 @@
 # Hola! Soy Diegue.
-### Voy a ser Web Developer algún día 👀
+### Un junior frontend developer actualmente trabajando en @biko2 🐣
 
-💪 Actualmente estoy estudiando para lograrlo: **React**
+💪 Actualmente estoy estudiando **React** para lograr mis metas!
 
 🕵️‍♀️ Además, he aprendido **diferentes lenguajes y herramientas**, entre ellos:
 
@@ -20,5 +20,6 @@
 ## Ponte en contacto conmigo 💌
 
 > Tratare de responderte lo antes posible! 😇
+- Email: dieeegue2104@gmail.com
 - Página web: https://diegue-exe.github.io
 - Instagram: https://www.instagram.com/dieguegfx/?hl=es
