@@ -1,5 +1,5 @@
 # Hola! Soy Diegue.
-### Un junior frontend developer actualmente trabajando en @biko2 🐣
+### Un junior frontend developer actualmente trabajando en [@biko2](https://github.com/biko2) 🐣
 
 💪 Actualmente estoy estudiando **React** para lograr mis metas!
 
