@@ -21,5 +21,4 @@
 
 > Tratare de responderte lo antes posible! 😇
 - Email: dieeegue2104@gmail.com
-- Página web: https://diegue-exe.github.io
-- Instagram: https://www.instagram.com/dieguegfx/?hl=es
+
