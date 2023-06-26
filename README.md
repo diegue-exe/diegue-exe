@@ -21,4 +21,5 @@
 
 > Tratare de responderte lo antes posible! 😇
 - Email: dieeegue2104@gmail.com
+- LinkedIn: [](https://www.linkedin.com/in/diego-bogo)
 
