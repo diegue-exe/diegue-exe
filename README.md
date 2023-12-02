@@ -1,21 +1,11 @@
 # Hola! Soy Diegue.
 ### Un junior frontend developer actualmente trabajando en [@biko2](https://github.com/biko2) 🐣
 
-💪 Actualmente estoy estudiando **React** para lograr mis metas!
+🕵️‍♀️ Estos son algunos de los lenguajes, herramientas y metodologías que conozco!
 
-🕵️‍♀️ Además, he aprendido **diferentes lenguajes y herramientas**, entre ellos:
-
- - HTML, CSS, SASS, JavaScript, Typescript, JQuery, PHP, Angular
- - Java
- - Python
- - C# (.NET)
- - Visual Basic (.NET)
- - Android Studio
- - Adobe Illustrator, Adobe Photoshop, Adobe After Effects
+ `React, React Native, Extreme Programming, Atomic Design, Hexagonal Architecture, Agile, TDD, BDD...`
 
 🥰 Me gusta mucho el diseño e intento incorporarlo como puedo en todo lo que hago.
-
-🧑 **Hobbies:** Hacer mis diseños con illustrator y photoshop, aprender sobre informática y el baloncesto.
 
 ## Ponte en contacto conmigo 💌
 
