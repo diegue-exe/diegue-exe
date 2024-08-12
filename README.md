@@ -1,5 +1,5 @@
 # Hola! Soy Diegue.
-### Un junior frontend developer actualmente trabajando en [@biko2](https://github.com/biko2) 🐣
+### Un front-end developer actualmente trabajando en [@JAKALA](https://www.jakala.com/) 🐣
 
 🕵️‍♀️ Estos son algunos de los lenguajes, herramientas y metodologías que conozco!
 
